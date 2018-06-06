@@ -1,4 +1,5 @@
 ## Welcome to the PCA workshop for phonetic research.
+*Maelle Amand, lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics*
 
 Please download the PCAphon workshop package. We will go through the files as we proceed during the workshop.
 We will be using several phonetics datasets so that you practice the interpretation of PCA results better.
