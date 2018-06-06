@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Maelle Amand GitHub Page
 
 You can use the [editor on GitHub](https://github.com/MaelleAmand/PCAphon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
