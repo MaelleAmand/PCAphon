@@ -6,7 +6,7 @@ We will be using several phonetics datasets so that you practice the interpretat
 
 
 At the end of the workshop you will:
-- have a broad understanding of PCA.
+- have a general understanding of PCA.
 - know the correspondence of PCA key words from one school of PCA to the next to understand results in publications.
 - know how to organise your data table to use it for PCA.
 - know the main functions of the R package {FactoMineR}.
