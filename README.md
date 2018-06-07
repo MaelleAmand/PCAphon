@@ -26,3 +26,4 @@ At the end of the workshop you will:
 - Mixed effects models applied to phonetic data (Paris Diderot University)
 - Statistics for the humanities: learn to build statistical models for qualitative data (Paris Diderot University)
 - Frequent one on one courses
+- Statistics for linguistics (Newcastle University)
