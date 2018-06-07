@@ -13,3 +13,15 @@ At the end of the workshop you will:
 - know how to interpret PCA graphs and correlation circles.
 - find the relevant information in the loadings (PCA output) to answer your research questions.
 - know how to perform a hierarchical cluster analysis based on PCA.
+
+## Workshop coming soon
+  - 11th & 18th June: ggplot2 & multivariate analysis (Paris Sorbonne Nouvelle University) 
+## Previous workshops I have given
+
+- RStudio for postgraduate linguistic research (Paris Sorbonne Nouvelle University)
+    - Weekly course during for one semester
+    - 2 day workshops
+- Data analysis applied to the PAC project database (Paris Diderot University)
+- Mixed effects models applied to phonetic data (Paris Diderot University)
+- RStudio for the humanities
+- Frequent one on one courses
