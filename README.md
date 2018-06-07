@@ -16,12 +16,13 @@ At the end of the workshop you will:
 
 ## Workshop coming soon
   - 11th & 18th June: ggplot2 & multivariate analysis (Paris Sorbonne Nouvelle University) 
+ 
 ## Previous workshops I have given
 
 - RStudio for postgraduate linguistic research (Paris Sorbonne Nouvelle University)
-    - Weekly course during for one semester
+    - Weekly course for one semester
     - 2 day workshops
-- Data analysis applied to the PAC project database (Paris Diderot University)
+- Data analysis applied to the PAC-project database on English varieties (Paris Diderot University)
 - Mixed effects models applied to phonetic data (Paris Diderot University)
-- RStudio for the humanities
+- Statistics for the humanities: learn to build statistical models for qualitative data (Paris Diderot University)
 - Frequent one on one courses
