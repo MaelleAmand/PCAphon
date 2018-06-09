@@ -1,6 +1,9 @@
 ## Welcome to the PCA workshop for phonetic research.
 *Hello, this is Maelle! I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
 
+![acp_face_goat_price_pvc](https://user-images.githubusercontent.com/39985461/41192982-dce12f56-6c06-11e8-81a7-4b378942355b.png)
+**PCA analysis performed on the percentage of FACE, GOAT and PRICE variants in the 1994 PVC corpus of Newcastle English (Amand, Ballier & Corrigan, 2018).**
+
 Please download the PCAphon workshop package. We will go through the files as we proceed through the workshop.
 We will be using several phonetics datasets so that you practice the interpretation of PCA results better. In the package, you will also find different publications in phonetics and linguistics that have used the statistical approach so that you may have examples of how to report your results. 
 
