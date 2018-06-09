@@ -6,8 +6,8 @@ At the end of the workshop you will:
 - have a general **understanding** of PCA
 - know the correspondence of **PCA key words** from one school of PCA to the next to **understand results in publications**
 - know how to **organise your data table** to use it for PCA
-- know the **main functions of the R package {FactoMineR}
-- know how to **interpret PCA graphs and correlation circles
+- know the **main functions of the R package {FactoMineR}**
+- know how to **interpret PCA graphs and correlation circles**
 - find the relevant information in the **loadings (PCA output)** to answer your research questions
 - know how to perform a **hierarchical cluster analysis** based on PCA
 
@@ -19,6 +19,7 @@ ________________________________________________________________________________
 <sub> **_PCA analysis performed on the percentage of FACE, GOAT and PRICE variants in the 1994 PVC corpus of Newcastle English (Amand, Ballier & Corrigan, 2018)_.**
 
 ![PCA in language variation_2](cluster_speakers_FACE_GOAT_PRICE.png)
+<sub> **_Cluster analysis based on the above PCA analysis (Amand, Ballier & Corrigan, 2018)_.**
 _________________________________________________________________________________________________________________
 
 ## Get prepared before the workshop!
