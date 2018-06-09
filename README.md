@@ -11,7 +11,7 @@ At the end of the workshop you will:
 - find the relevant information in the **loadings (PCA output)** to answer your research questions
 - know how to perform a **hierarchical cluster analysis** based on PCA
 
-## Example of your achievement at the end of the workshop:
+## Examples of your achievements at the end of the workshop:
 _________________________________________________________________________________________________________________
 
 ![PCA in language variation](ACP_FACE_GOAT_PRICE_PVC.png)
