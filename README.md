@@ -3,15 +3,15 @@
 
 ## Aims of the workshop
 At the end of the workshop you will:
-- have a general understanding of PCA.
-- know the correspondence of PCA key words from one school of PCA to the next to understand results in publications.
-- know how to organise your data table to use it for PCA.
-- know the main functions of the R package {FactoMineR}.
-- know how to interpret PCA graphs and correlation circles.
-- find the relevant information in the loadings (PCA output) to answer your research questions.
-- know how to perform a hierarchical cluster analysis based on PCA.
+- have a general **understanding** of PCA
+- know the correspondence of **PCA key words** from one school of PCA to the next to **understand results in publications**
+- know how to **organise your data table** to use it for PCA
+- know the **main functions of the R package {FactoMineR}
+- know how to **interpret PCA graphs and correlation circles
+- find the relevant information in the **loadings (PCA output)** to answer your research questions
+- know how to perform a **hierarchical cluster analysis** based on PCA
 
-## Your achivements at the end of the workshop
+## Example of your achievement at the end of the workshop:
 _________________________________________________________________________________________________________________
 
 ![PCA in language variation](ACP_FACE_GOAT_PRICE_PVC.png)
