@@ -1,6 +1,7 @@
-## Welcome to the PCA workshop for phonetic research.
+## Welcome to the PCA workshop for phonetic research
 *Hello, this is Maelle! I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
 
+# Aims of the workshop
 At the end of the workshop you will:
 - have a general understanding of PCA.
 - know the correspondence of PCA key words from one school of PCA to the next to understand results in publications.
