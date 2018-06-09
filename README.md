@@ -1,7 +1,7 @@
 ## Welcome to the PCA workshop for phonetic research.
 *Maelle Amand, lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics*
 
-Please download the PCAphon workshop package. We will go through the files as we proceed during the workshop.
+Please download the PCAphon workshop package. We will go through the files as we proceed through the workshop.
 We will be using several phonetics datasets so that you practice the interpretation of PCA results better. In the package, you will also find different publications in phonetics and linguistics that have used the statistical approach so that you may have examples of how to report your results. 
 
 
@@ -25,5 +25,5 @@ At the end of the workshop you will:
 - Data analysis applied to the PAC-project database on English varieties (Paris Diderot University)
 - Mixed effects models applied to phonetic data (Paris Diderot University)
 - Statistics for the humanities: learn to build statistical models for qualitative data (Paris Diderot University)
-- Frequent one on one courses
+- Regular one-on-one courses in statistics in RStudio.
 - Statistics for linguistics (Newcastle University)
