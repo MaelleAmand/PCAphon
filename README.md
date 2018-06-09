@@ -30,4 +30,4 @@ At the end of the workshop you will:
 - Mixed effects models applied to phonetic data (Paris Diderot University)
 - Statistics for the humanities: learn to build statistical models for qualitative data (Paris Diderot University)
 - Regular one-on-one courses in statistics with RStudio.
-- Statistics in RStudio for linguistics: clinic session (Newcastle University)
+- Statistics in RStudio for linguistics: clinic session for PhD students (Newcastle University)
