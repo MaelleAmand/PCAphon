@@ -25,5 +25,5 @@ At the end of the workshop you will:
 - Data analysis applied to the PAC-project database on English varieties (Paris Diderot University)
 - Mixed effects models applied to phonetic data (Paris Diderot University)
 - Statistics for the humanities: learn to build statistical models for qualitative data (Paris Diderot University)
-- Regular one-on-one courses in statistics in RStudio.
+- Regular one-on-one courses in statistics with RStudio.
 - Statistics for linguistics (Newcastle University)
