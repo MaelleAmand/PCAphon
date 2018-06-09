@@ -25,7 +25,7 @@ At the end of the workshop you will:
 
 - RStudio for postgraduate linguistic research (Paris Sorbonne Nouvelle University)
     - Weekly course for one semester
-    - 2 day workshops
+    - Regular two-day workshops
 - Data analysis with the coding scheme of the PAC-project database on English varieties (Paris Diderot University)
 - Mixed effects models applied to phonetic data (Paris Diderot University)
 - Statistics for the humanities: learn to build statistical models for qualitative data (Paris Diderot University)
