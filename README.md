@@ -1,5 +1,5 @@
 ## Welcome to the PCA workshop for phonetic research.
-*Welcome on board, this is Maelle. I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics*
+*Hello, this is Maelle! I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
 
 Please download the PCAphon workshop package. We will go through the files as we proceed through the workshop.
 We will be using several phonetics datasets so that you practice the interpretation of PCA results better. In the package, you will also find different publications in phonetics and linguistics that have used the statistical approach so that you may have examples of how to report your results. 
@@ -15,7 +15,7 @@ At the end of the workshop you will:
 - know how to perform a hierarchical cluster analysis based on PCA.
 
 ## Workshop coming soon
-  - 11th & 18th June: ggplot2 & multivariate analysis (Paris Sorbonne Nouvelle University) 
+  - 11th & 18th June: ggplot2 & multivariate analysis (Paris Sorbonne Nouvelle University)
  
 ## Previous workshops I have given
 
