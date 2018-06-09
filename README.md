@@ -1,7 +1,7 @@
 ## Welcome to the PCA workshop for phonetic research.
 *Hello, this is Maelle! I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
 
-![PCA in language variation](https://user-images.githubusercontent.com/39985461/41192982-dce12f56-6c06-11e8-81a7-4b378942355b.png)
+![PCA in language variation](PCAphon/ACP_FACE_GOAT_PRICE_PVC.png)
 
 **PCA analysis performed on the percentage of FACE, GOAT and PRICE variants in the 1994 PVC corpus of Newcastle English (Amand, Ballier & Corrigan, 2018).**
 
