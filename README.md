@@ -1,7 +1,7 @@
-## Welcome to the PCA workshop for phonetic research
+# Welcome to the PCA workshop for phonetic research
 *Hello, this is Maelle! I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
 
-# Aims of the workshop
+## Aims of the workshop
 At the end of the workshop you will:
 - have a general understanding of PCA.
 - know the correspondence of PCA key words from one school of PCA to the next to understand results in publications.
@@ -10,6 +10,8 @@ At the end of the workshop you will:
 - know how to interpret PCA graphs and correlation circles.
 - find the relevant information in the loadings (PCA output) to answer your research questions.
 - know how to perform a hierarchical cluster analysis based on PCA.
+
+## Your achivements at the end of the workshop
 _________________________________________________________________________________________________________________
 
 ![PCA in language variation](ACP_FACE_GOAT_PRICE_PVC.png)
