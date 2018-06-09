@@ -17,6 +17,8 @@ ________________________________________________________________________________
 ![PCA in language variation](ACP_FACE_GOAT_PRICE_PVC.png)
 
 <sub> **_PCA analysis performed on the percentage of FACE, GOAT and PRICE variants in the 1994 PVC corpus of Newcastle English (Amand, Ballier & Corrigan, 2018)_.**
+
+![PCA in language variation](ACP_FACE_GOAT_PRICE_PVC.png)
 _________________________________________________________________________________________________________________
   
 Please download the PCAphon workshop package. We will go through the files as we proceed through the workshop.
