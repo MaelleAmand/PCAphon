@@ -20,11 +20,19 @@ ________________________________________________________________________________
 
 ![PCA in language variation_2](cluster_speakers_FACE_GOAT_PRICE.png)
 _________________________________________________________________________________________________________________
-  
-Please download the PCAphon workshop package. We will go through the files as we proceed through the workshop.
-We will be using several phonetics datasets so that you practice the interpretation of PCA results better. In the package, you will also find different publications in phonetics and linguistics that have used the statistical approach so that you may have examples of how to report your results. 
 
-## Workshop coming soon
+## Get prepared before the workshop!
+
+Before the workshop, please install the package FactoMineR in RStudio or R on your computer.
+It would be advisable to bring your own dataset(s).
+
+## During the workshop
+
+- We will go through the files as we proceed through the workshop. 
+- A PCA analysis will be performed on several datasets related to the field of phonetics so that you may improve your interpretation of PCA results and graphs.
+- I will also add published articles using PCA analysis for further illustration.
+
+## Other workshop coming soon
   - 11th & 18th June: ggplot2 & multivariate analysis (Paris Sorbonne Nouvelle University)
  
 ## Previous workshops I have given
