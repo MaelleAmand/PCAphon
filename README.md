@@ -1,5 +1,5 @@
 # Welcome to the PCA workshop for phonetic research
-*Hello, this is Maelle! I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
+*Dear all, this is Maelle Amand. I'm a lecturer at the University of Paris Sorbonne Nouvelle, professeure agrégée and currently doing and interdisciplinary PhD in sociophonetics & statistics.*
 
 ## Aims of the workshop
 At the end of the workshop you will:
